@@ -1,4 +1,4 @@
-<project
+<project>
   <target name="build">
     <echo>pull request #1</echo>
   </target>
