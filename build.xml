@@ -1,5 +1,5 @@
-<project>
+<project default="build">
   <target name="build">
-    <echo>pull request #1</echo>
+    <echo>hello world</echo>
   </target>
 </project>
