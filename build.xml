@@ -2,5 +2,4 @@
   <target name="build">
     <echo>hello world</echo>
   </target>
-  <<<<<<<
 </project>
