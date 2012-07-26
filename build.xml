@@ -1,5 +1,6 @@
 <project default="build">
   <target name="build">
+    <echo>hello world</echo>
     <echo>test test test!</echo>
   </target>
 </project>
