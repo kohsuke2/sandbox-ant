@@ -2,4 +2,5 @@
   <target name="build">
     <echo>Hello from JUC Tokyo</echo>
   </target>
+  <<<<<
 </project>
