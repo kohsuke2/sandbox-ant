@@ -1,5 +1,4 @@
 <project default="build">
-  <<<<
   <target name="build">
     <echo>Hello, hello, I'm calling from Mars</echo>
   </target>
