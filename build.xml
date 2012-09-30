@@ -1,6 +1,4 @@
 <project default="build">
-  <broken>
-
   <target name="build">
     <echo>Hello from JUC San Francisco</echo>
   </target>
